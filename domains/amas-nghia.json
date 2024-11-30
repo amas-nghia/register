@@ -1,0 +1,10 @@
+{
+    "owner": {
+        "username": "amas-nghia",
+        "email": "amasnghia@gmail.com"
+    },
+    "record": {
+        "RECORDTYPE": "CNAME",
+        "RECORDCONTENT": ["amas-nghia.github.io"]
+    }
+}
